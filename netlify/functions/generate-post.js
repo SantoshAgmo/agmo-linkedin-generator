@@ -60,7 +60,7 @@ DISCUSSION QUESTIONS:
                 'anthropic-version': '2023-06-01'
             },
             body: JSON.stringify({
-                model: 'claude-3-5-haiku',
+                model: 'claude-sonnet',
                 max_tokens: 2000,
                 messages: [
                     {
